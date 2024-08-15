@@ -60,10 +60,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashusoni22&theme=github-dark-blue" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashusoni22&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-
 ---
 
 ### 🌐 Find Me Online
