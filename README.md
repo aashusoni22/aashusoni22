@@ -23,7 +23,7 @@
 
 - 🌱 **Currently Learning:** React, TypeScript, and Next.js
 - 💬 **Ask Me About:** JavaScript, Frontend Development, and UI/UX Design
-- 👨‍💻 **All My Projects:** [Check out my portfolio](www.example.com)
+- 👨‍💻 **All My Projects:** [Check out my portfolio](https://aashutosh-dev-porfolio.vercel.app/)
 - 📫 **Reach Me At:** omsoni051@gmail.com
 - ⚡ **Fun Fact:** I’m a coffee enthusiast who loves brewing ideas into code.
 
