@@ -126,7 +126,7 @@ I'm currently exploring opportunities where I can:
 I'm always open to discussing new projects, opportunities, or just chatting about web development!
 
 - 📧 Email: [omsoni051@gmail.com](mailto:omsoni051@gmail.com)
-- 💼 LinkedIn: [Aashutosh Soni](https://linkedin.com/in/aashutosh22/)
+- 💼 LinkedIn: [Aashutosh Soni](https://linkedin.com/in/soni2205/)
 - 🌐 Portfolio: [View My Work](https://aashutosh-dev-porfolio.vercel.app/)
 
 ---
