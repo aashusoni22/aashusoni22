@@ -1,19 +1,19 @@
-# <div align="center">👋 Hello World! I'm Aashutosh
+# <div align="center">👋 Hello, I'm Aashutosh Soni
 
 <div align="center">
   
-### Frontend Developer crafting exceptional web experiences
+### Frontend Developer crafting exceptional digital experiences
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aashutosh-dev-porfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aashutosh-soni-225a12177)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aashutosh22/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omsoni051@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aashusoni22)
 
 </div>
 
-## 🎯 What I Bring to the Table
+## 💻 About Me
 
-```typescript
+```javascript
 const aashutosh = {
     title: "Frontend Developer",
     location: "Toronto, Canada",
@@ -23,22 +23,25 @@ const aashutosh = {
         tools: ["Git", "Webpack", "Figma", "VS Code"],
         softSkills: ["Problem Solving", "Team Collaboration", "Clean Code"]
     },
-    currentFocus: "Building scalable React applications",
+    currentFocus: "Building scalable React applications with modern architecture",
+    passion: "Creating intuitive interfaces that solve real problems",
     availability: "Open to exciting opportunities"
 };
 ```
 
-## 💼 Professional Experience
+I'm a detail-oriented Frontend Developer who transforms complex design requirements into elegant code. My approach combines technical expertise with a user-centric mindset to deliver web applications that are both beautiful and functional.
 
-🚀 **Specialized in:**
+## 🚀 Expertise
+
 - Building responsive and performant web applications
-- Creating reusable component libraries
+- Architecting reusable component libraries
 - Implementing complex UI/UX designs
-- State management with Redux
-- RESTful API integration
-- Performance optimization
+- Managing application state with Redux
+- Integrating RESTful APIs
+- Optimizing performance and user experience
 
 ## 🛠️ Tech Stack
+
 <div align="center">
 
 ### Core Technologies
@@ -59,26 +62,48 @@ const aashutosh = {
 
 </div>
 
-## 🎨 Featured Projects
+## 🏆 Featured Projects
 
-### 1. MegaBlog - Modern Blogging Platform
+### [WealthWise](https://github.com/aashusoni22/WeatlhWise) - Financial Management App
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-- Full-featured blogging platform with modern UI
-- Rich text editor with image upload
-- User authentication and authorization
-- [View Project →](https://github.com/aashusoni22/megablog)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat&logo=appwrite&logoColor=white)
 
-### 2. Portfolio Website
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-- Modern, responsive portfolio website
-- Optimized performance with Next.js
-- Custom animations and interactions
-- [View Live →](https://aashutosh-dev-porfolio.vercel.app/)
+A comprehensive financial management application with expense tracking, income management, and visual analytics.
 
-## 📊 GitHub Analytics
+[Live Demo](https://wealthwise-eta.vercel.app/) | [Code](https://github.com/aashusoni22/WeatlhWise)
+
+### [MegaBlog](https://github.com/aashusoni22/megablog) - Modern Blogging Platform
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat&logo=appwrite&logoColor=white)
+
+A feature-rich blogging platform with authentication, rich text editing, and image upload capabilities.
+
+[Live Demo](https://megablog-psi.vercel.app/) | [Code](https://github.com/aashusoni22/megablog)
+
+### [DevProject Generator](https://github.com/aashusoni22/dev-project-generator) - Portfolio Idea Creator
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![API](https://img.shields.io/badge/API-Integration-4A90E2?style=flat)
+
+An AI-powered application that helps junior developers discover personalized portfolio project ideas.
+
+[Live Demo](https://dev-generator.netlify.app/) | [Code](https://github.com/aashusoni22/dev-project-generator)
+
+### [MConverter](https://github.com/aashusoni22/MConverter) - Markdown Editor
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+A modern markdown editor with real-time preview, dark/light mode, and cloud synchronization.
+
+[Live Demo](https://m-converter.vercel.app) | [Code](https://github.com/aashusoni22/MConverter)
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashusoni22&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -88,17 +113,20 @@ const aashutosh = {
   <img src="https://github-readme-stats.vercel.app/api?username=aashusoni22&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
-## 🎯 Looking For
-- Full-time frontend development opportunities
-- Collaborative team environment
-- Projects that challenge and inspire
-- Opportunities to learn and grow
+## 🔍 Looking For
 
-## 📫 Get in Touch
-I'm always interested in hearing about new opportunities and collaborations.
+I'm currently exploring opportunities where I can:
+- Work with innovative teams on challenging projects
+- Contribute to user-focused product development
+- Continue growing as a developer while delivering value
+- Apply my frontend expertise to solve real-world problems
 
-- 📧 Email: omsoni051@gmail.com
-- 💼 LinkedIn: [Aashutosh Soni](https://linkedin.com/in/aashutosh-soni-225a12177)
+## 📫 Let's Connect
+
+I'm always open to discussing new projects, opportunities, or just chatting about web development!
+
+- 📧 Email: [omsoni051@gmail.com](mailto:omsoni051@gmail.com)
+- 💼 LinkedIn: [Aashutosh Soni](https://linkedin.com/in/aashutosh22/)
 - 🌐 Portfolio: [View My Work](https://aashutosh-dev-porfolio.vercel.app/)
 
 ---
@@ -107,6 +135,6 @@ I'm always interested in hearing about new opportunities and collaborations.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aashusoni22&color=blueviolet)
 
-**"Building the future of the web, one component at a time."**
+**"Building digital experiences that blend creativity with technical excellence."**
 
 </div>
