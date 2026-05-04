@@ -1,140 +1,104 @@
-# <div align="center">👋 Hello, I'm Aashutosh Soni
+# 👋 Hey, I'm Aashutosh
 
-<div align="center">
-  
-### Frontend Developer crafting exceptional digital experiences
+💻 IT Support Specialist | 🛠 Troubleshooter | 🚀 Building towards Endpoint Admin / SysAdmin  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aashutosh-dev-porfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soni2205/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omsoni051@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aashusoni22)
+## 🧠 About Me
 
-</div>
+I’m an IT Support Specialist based in Toronto with 3+ years of experience solving real-world technical problems at scale.
 
-## 💻 About Me
+Currently working in AppleCare support, I handle **70+ technical issues daily** across macOS, iOS, and Windows environments — everything from simple fixes to complex escalations involving Tier 2 and engineering teams.
 
-```javascript
-const aashutosh = {
-    title: "Frontend Developer",
-    location: "Toronto, Canada",
-    skills: {
-        frontend: ["React", "Next.js", "TypeScript", "Redux", "TailwindCSS"],
-        backend: ["Node.js", "Express", "MongoDB", "MySQL"],
-        tools: ["Git", "Webpack", "Figma", "VS Code"],
-        softSkills: ["Problem Solving", "Team Collaboration", "Clean Code"]
-    },
-    currentFocus: "Building scalable React applications with modern architecture",
-    passion: "Creating intuitive interfaces that solve real problems",
-    availability: "Open to exciting opportunities"
-};
-```
+I enjoy breaking down problems, finding root causes, and building systems that make support faster and more efficient.
 
-I'm a detail-oriented Frontend Developer who transforms complex design requirements into elegant code. My approach combines technical expertise with a user-centric mindset to deliver web applications that are both beautiful and functional.
+## ⚡ What I Do
 
-## 🚀 Expertise
+- 🔧 Troubleshoot hardware, software, and network issues (Windows / macOS / iOS)
+- 📞 Handle high-volume support environments with strong SLA focus
+- 🔁 Manage escalations and communicate with engineering teams
+- 🧾 Create knowledge base articles and documentation
+- 🧠 Use structured troubleshooting to reduce repeat issues
 
-- Building responsive and performant web applications
-- Architecting reusable component libraries
-- Implementing complex UI/UX designs
-- Managing application state with Redux
-- Integrating RESTful APIs
-- Optimizing performance and user experience
+## 🛠 Tech Stack
 
-## 🛠️ Tech Stack
+**Operating Systems**
+- Windows 10 / 11
+- macOS
+- iOS / iPadOS
 
-<div align="center">
+**Networking**
+- TCP/IP, DNS, DHCP
+- VPN troubleshooting
+- Wi-Fi / connectivity issues
 
-### Core Technologies
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+**Tools**
+- Zendesk
+- Jira
+- Remote Desktop / AnyDesk
 
-### Styling & Design
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+**Currently Learning**
+- Microsoft Intune
+- Active Directory (hands-on labs)
+- Endpoint Management
+- CCNA concepts
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## 🧪 Projects
 
-</div>
+### 🏢 Microsoft 365 / IT Support Lab
+Simulating real-world IT admin scenarios:
+- User onboarding / offboarding
+- MFA setup
+- Device management basics
+- Intune exploration
 
-## 🏆 Featured Projects
+### 🖥 Windows Server & Active Directory Lab
+- Created domain environment
+- Managed users, groups, permissions
+- Practiced troubleshooting login & access issues
 
-### [WealthWise](https://github.com/aashusoni22/WeatlhWise) - Financial Management App
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat&logo=appwrite&logoColor=white)
+### 📚 IT Support Knowledge Base (Work in Progress)
+Building structured troubleshooting guides for:
+- VPN issues
+- DNS / DHCP problems
+- Windows & macOS errors
+- Common helpdesk scenarios
 
-A comprehensive financial management application with expense tracking, income management, and visual analytics.
 
-[Live Demo](https://wealthwise-eta.vercel.app/) | [Code](https://github.com/aashusoni22/WeatlhWise)
+## 🤖 AI + IT (How I Use AI)
 
-### [MegaBlog](https://github.com/aashusoni22/megablog) - Modern Blogging Platform
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat&logo=appwrite&logoColor=white)
+I actively use AI tools like ChatGPT & Claude to:
 
-A feature-rich blogging platform with authentication, rich text editing, and image upload capabilities.
+- 🧾 Generate and improve documentation
+- 🧠 Break down complex troubleshooting steps
+- ⚡ Speed up learning new technologies
+- 🔍 Research systems, tools, and workflows
 
-[Live Demo](https://megablog-psi.vercel.app/) | [Code](https://github.com/aashusoni22/megablog)
 
-### [DevProject Generator](https://github.com/aashusoni22/dev-project-generator) - Portfolio Idea Creator
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![API](https://img.shields.io/badge/API-Integration-4A90E2?style=flat)
+## 📈 Current Focus
 
-An AI-powered application that helps junior developers discover personalized portfolio project ideas.
+Right now, I’m focused on transitioning into:
 
-[Live Demo](https://dev-generator.netlify.app/) | [Code](https://github.com/aashusoni22/dev-project-generator)
+👉 IT Support / Desktop Support  
+👉 Endpoint Administration  
+👉 Systems / Infrastructure roles  
 
-### [MConverter](https://github.com/aashusoni22/MConverter) - Markdown Editor
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-A modern markdown editor with real-time preview, dark/light mode, and cloud synchronization.
+## 🎯 Goals
 
-[Live Demo](https://m-converter.vercel.app) | [Code](https://github.com/aashusoni22/MConverter)
+- Strengthen hands-on skills in Intune & Active Directory  
+- Move into a full-time internal IT role  
+- Build real-world labs that mirror enterprise environments  
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashusoni22&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+## 📫 Let’s Connect
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashusoni22&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
+- 💼 LinkedIn: https://linkedin.com/in/aashusoni  
+- 📧 Email: aashusoni@proton.me  
 
-## 🔍 Looking For
 
-I'm currently exploring opportunities where I can:
-- Work with innovative teams on challenging projects
-- Contribute to user-focused product development
-- Continue growing as a developer while delivering value
-- Apply my frontend expertise to solve real-world problems
+## ⚡ Fun Fact
 
-## 📫 Let's Connect
+I actually enjoy troubleshooting 😄  
+(yeah… I know, weird)
 
-I'm always open to discussing new projects, opportunities, or just chatting about web development!
 
-- 📧 Email: [omsoni051@gmail.com](mailto:omsoni051@gmail.com)
-- 💼 LinkedIn: [Aashutosh Soni](https://linkedin.com/in/soni2205/)
-- 🌐 Portfolio: [View My Work](https://aashutosh-dev-porfolio.vercel.app/)
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=aashusoni22&color=blueviolet)
-
-**"Building digital experiences that blend creativity with technical excellence."**
-
-</div>
+⭐ If you’re in IT or on a similar journey, feel free to connect!
